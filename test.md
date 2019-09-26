@@ -1,4 +1,4 @@
-## Game Design Document
+# Game Design Document
 
 Working Title: Test
 
@@ -10,6 +10,7 @@ This Game Design Document (GDD) contains confidential data owned by Crimi.
 
 This document may only be made available to authorized members involved in the development. Any publication and duplication of this GDD - even in part - is prohibited.
 
+- [Game Design Document](#game-design-document)
 - [Concept](#concept)
   - [1. High Concept](#1-high-concept)
   - [2. Gameplay](#2-gameplay)
@@ -102,6 +103,16 @@ This document may only be made available to authorized members involved in the d
 # TimeFrame
 
 ## 1. Low-Fidelity Prototyp
+
+```mermaid
+graph TD
+A[Mago] -->|Eat| B(Banana)
+B --> C{Let me think}
+C -->|One| D[Laptop]
+C -->|Two| E[iPhone]
+C -->|Three| F[fa:fa-car Car]
+
+```
 
 ## 2. High-Fidelity Prototyp
 
