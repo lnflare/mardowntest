@@ -104,7 +104,7 @@ This document may only be made available to authorized members involved in the d
 
 # TimeFrame
 
-## 1.Low-Fidelity Prototyp
+## 1. Low-Fidelity Prototyp
 
 ## 2. High-Fidelity Prototyp
 
