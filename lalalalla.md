@@ -12,9 +12,9 @@ This document may only be made available to authorized members involved in the d
 
 - [Game Design Document](#game-design-document)
 - [Concept](#concept)
-  - [1. <a name='HighConcept'></a>High Concept](#1-a-namehighconceptahigh-concept)
-  - [2. <a name='Gameplay'></a>Gameplay](#2-a-namegameplayagameplay)
-  - [3. <a name='Characters'></a>Characters](#3-a-namecharactersacharacters)
+  - [1. <a name='HighConcept'></a>High Concept](#High-Concept)
+  - [2. <a name='Gameplay'></a>Gameplay](#Gameplay)
+  - [3. <a name='Characters'></a>Characters](#Characters)
   - [4. <a name='NPCs'></a>NPCs](#4-a-namenpcsanpcs)
   - [5. <a name='ThemeWorldDesign'></a>Theme World Design](#5-a-namethemeworlddesignatheme-world-design)
 - [Graphics](#graphics)
