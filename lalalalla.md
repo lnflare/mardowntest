@@ -10,19 +10,17 @@ This Game Design Document (GDD) contains confidential data owned by Crimi.
 
 This document may only be made available to authorized members involved in the development. Any publication and duplication of this GDD - even in part - is prohibited.
 
-
-
+- [Game Design Document](#game-design-document)
 - [Concept](#concept)
   - [1. High Concept](#1-high-concept)
   - [2. Gameplay](#2-gameplay)
   - [3. Characters](#3-characters)
   - [4. NPCs](#4-npcs)
   - [5. Theme World Design](#5-theme-world-design)
-- [Graphics](#graphics)
   - [1. Style Inspiration](#1-style-inspiration)
   - [2. Landscape](#2-landscape)
   - [3. Objects](#3-objects)
-  - [4. Player Characters](#4-player-characters)
+  - [4. </a>Player Characters](#4-aplayer-characters)
   - [5. Lightning](#5-lightning)
   - [6. Biomes](#6-biomes)
   - [7. Required Artwork](#7-required-artwork)
@@ -41,7 +39,7 @@ This document may only be made available to authorized members involved in the d
 - [Team](#team)
   - [1. Rolls](#1-rolls)
 - [TimeFrame](#timeframe)
-  - [1. Low-Fidelity Prototyp](#1-low-fidelity-prototyp)
+  - [1.Low-Fidelity Prototyp](#1low-fidelity-prototyp)
   - [2. High-Fidelity Prototyp](#2-high-fidelity-prototyp)
   - [3. Alpha Game](#3-alpha-game)
   - [4. Beta Game](#4-beta-game)
@@ -104,7 +102,7 @@ This document may only be made available to authorized members involved in the d
 
 # TimeFrame
 
-## 1. Low-Fidelity Prototyp
+## 1.Low-Fidelity Prototyp
 
 ## 2. High-Fidelity Prototyp
 
