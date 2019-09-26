@@ -12,7 +12,7 @@ This document may only be made available to authorized members involved in the d
 
 - [Game Design Document](#game-design-document)
 - [Concept](#concept)
-  - [1. <a name='HighConcept'></a>High Concept](#High-Concept)
+  - [1. <a name='HighConcept'></a>High Concept](#HighConcept)
   - [2. <a name='Gameplay'></a>Gameplay](#Gameplay)
   - [3. <a name='Characters'></a>Characters](#Characters)
   - [4. <a name='NPCs'></a>NPCs](#4-a-namenpcsanpcs)
