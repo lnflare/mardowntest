@@ -1,4 +1,4 @@
-# <!-- /vscode-markdown-toc -->Game Design Document
+# [Game Design Document](#game-design-document)
 
 Working Title: Test
 
@@ -10,109 +10,108 @@ This Game Design Document (GDD) contains confidential data owned by Crimi.
 
 This document may only be made available to authorized members involved in the development. Any publication and duplication of this GDD - even in part - is prohibited.
 
-- [Game Design Document](#game-design-document)
+
+
 - [Concept](#concept)
-  - [1. <a name='HighConcept'></a>High Concept](#HighConcept)
-  - [2. <a name='Gameplay'></a>Gameplay](#Gameplay)
-  - [3. <a name='Characters'></a>Characters](#Characters)
-  - [4. <a name='NPCs'></a>NPCs](#NPCs)
-  - [5. <a name='ThemeWorldDesign'></a>Theme World Design](#ThemeWorldDesign)
+  - [1. High Concept](#1-high-concept)
+  - [2. Gameplay](#2-gameplay)
+  - [3. Characters](#3-characters)
+  - [4. NPCs](#4-npcs)
+  - [5. Theme World Design](#5-theme-world-design)
 - [Graphics](#graphics)
-  - [6. <a name='StyleInspiration'></a>Style Inspiration](#StyleInspiration)
-  - [7. <a name='Landscape'></a>Landscape](#Landscape)
-  - [8. <a name='Objects'></a>Objects](#Objects)
-  - [9. <a name='PlayerCharacters'></a>Player Characters](#PlayerCharacter)
-  - [10. <a name='Lightning'></a>Lightning](#Lightning')
-  - [11. <a name='Biomes'></a>Biomes](#Biomes)
-  - [12. <a name='Required Artwork'></a>Required Artwork](#Required Artwork)
+  - [1. Style Inspiration](#1-style-inspiration)
+  - [2. Landscape](#2-landscape)
+  - [3. Objects](#3-objects)
+  - [4. </a>Player Characters](#4-aplayer-characters)
+  - [5. Lightning](#5-lightning)
+  - [6. Biomes](#6-biomes)
+  - [7. Required Artwork](#7-required-artwork)
 - [User Interface, Game Controls](#user-interface-game-controls)
-  - [12. <a name='GeneralUI'></a>General UI](#GeneralUI)
-  - [13. <a name='PlayerUI'></a>Player UI](#PlayerUI)
-  - [14. <a name='ShopUI'></a>Shop UI](#ShopUI)
-  - [15. <a name='MajorUI'></a>Major UI](#MajorUI)
-  - [16. <a name='SettingsMenu'></a>Settings Menu](#SettingsMenu)
-  - [17. <a name='GameControls'></a>Game Controls](#GameControls)
+  - [1. General UI](#1-general-ui)
+  - [2. Player UI](#2-player-ui)
+  - [3. Shop UI](#3-shop-ui)
+  - [4. Major UI](#4-major-ui)
+  - [5. Settings Menu](#5-settings-menu)
+  - [6. Game Controls](#6-game-controls)
 - [Platform and Monetization](#platform-and-monetization)
-  - [18. <a name='PC'></a>PC](#PC)
-  - [19. <a name='Switch'></a>Switch](#Switch)
-  - [20. <a name='Addons'></a>Addons](#Addons)
-  - [21. <a name='MarketingandTargetAudience'></a>Marketing and Target Audience](#MarketingandTargetAudience)
+  - [1. PC](#1-pc)
+  - [2. Switch](#2-switch)
+  - [3. Addons](#3-addons)
+  - [4. Marketing and Target Audience](#4-marketing-and-target-audience)
 - [Team](#team)
-  - [22. <a name='Rolls'></a>Rolls](#Rolls)
+  - [1. Rolls](#1-rolls)
 - [TimeFrame](#timeframe)
-  - [23. <a name='Low-FidelityPrototyp'></a>Low-Fidelity Prototyp](#Low-FidelityPrototyp)
-  - [24. <a name='High-FidelityPrototyp'></a>High-Fidelity Prototyp](#High-FidelityPrototyp)
-  - [25. <a name='AlphaGame'></a>Alpha Game](#AlphaGame)
-  - [26. <a name='BetaGame'></a>Beta Game](#BetaGame)
-  - [27. <a name='FullFame'></a>Full Fame](#FullFame)
+  - [1.Low-Fidelity Prototyp](#1low-fidelity-prototyp)
+  - [2. High-Fidelity Prototyp](#2-high-fidelity-prototyp)
+  - [3. Alpha Game](#3-alpha-game)
+  - [4. Beta Game](#4-beta-game)
+  - [5. Full Fame](#5-full-fame)
 - [Open Points](#open-points)
 
 # Concept
 
-## 1. <a name='HighConcept'></a>High Concept
+## 1. High Concept
 
-## 2. <a name='Gameplay'></a>Gameplay
+## 2. Gameplay
 
-## 3. <a name='Characters'></a>Characters
+## 3. Characters
 
-## 4. <a name='NPCs'></a>NPCs
+## 4. NPCs
 
-## 5. <a name='ThemeWorldDesign'></a>Theme World Design
+## 5. Theme World Design
 
-# Graphics
+## 1. Style Inspiration
 
-## 6. <a name='StyleInspiration'></a>Style Inspiration
+## 2. Landscape
 
-## 7. <a name='Landscape'></a>Landscape
+## 3. Objects
 
-## 8. <a name='Objects'></a>Objects
+## 4. </a>Player Characters
 
-## 9. <a name='PlayerCharacters'></a>Player Characters
+## 5. Lightning
 
-## 10. <a name='Lightning'></a>Lightning
+## 6. Biomes
 
-## 11. <a name='Biomes'></a>Biomes
-
-## 12. <a name='Required Artwork'></a>Required Artwork
+## 7. Required Artwork
 
 # User Interface, Game Controls
 
-## 12. <a name='GeneralUI'></a>General UI
+## 1. General UI
 
-## 13. <a name='PlayerUI'></a>Player UI
+## 2. Player UI
 
-## 14. <a name='ShopUI'></a>Shop UI
+## 3. Shop UI
 
-## 15. <a name='MajorUI'></a>Major UI
+## 4. Major UI
 
-## 16. <a name='SettingsMenu'></a>Settings Menu
+## 5. Settings Menu
 
-## 17. <a name='GameControls'></a>Game Controls
+## 6. Game Controls
 
 # Platform and Monetization
 
-## 18. <a name='PC'></a>PC
+## 1. PC
 
-## 19. <a name='Switch'></a>Switch
+## 2. Switch
 
-## 20. <a name='Addons'></a>Addons
+## 3. Addons
 
-## 21. <a name='MarketingandTargetAudience'></a>Marketing and Target Audience
+## 4. Marketing and Target Audience
 
 # Team
 
-## 22. <a name='Rolls'></a>Rolls
+## 1. Rolls
 
 # TimeFrame
 
-## 23. <a name='Low-FidelityPrototyp'></a>Low-Fidelity Prototyp
+## 1.Low-Fidelity Prototyp
 
-## 24. <a name='High-FidelityPrototyp'></a>High-Fidelity Prototyp
+## 2. High-Fidelity Prototyp
 
-## 25. <a name='AlphaGame'></a>Alpha Game
+## 3. Alpha Game
 
-## 26. <a name='BetaGame'></a>Beta Game
+## 4. Beta Game
 
-## 27. <a name='FullFame'></a>Full Fame
+## 5. Full Fame
 
 # Open Points
