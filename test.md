@@ -43,7 +43,7 @@ This document may only be made available to authorized members involved in the d
   - [2. High-Fidelity Prototyp](#2-high-fidelity-prototyp)
   - [3. Alpha Game](#3-alpha-game)
   - [4. Beta Game](#4-beta-game)
-  - [5. Full Fame](#5-full-fame)
+  - [5. Full Game](#5-full-game)
 - [Open Points](#open-points)
 
 # Concept
@@ -266,7 +266,7 @@ This document may only be made available to authorized members involved in the d
 
 > \*
 
-## 5. Full Fame
+## 5. Full Game
 
 > \*
 
