@@ -1,5 +1,4 @@
-Game Design Document
----
+## Game Design Document
 
 Working Title: Test
 
@@ -12,7 +11,7 @@ This Game Design Document (GDD) contains confidential data owned by Crimi.
 This document may only be made available to authorized members involved in the development. Any publication and duplication of this GDD - even in part - is prohibited.
 
 - [Concept](#concept)
-  - [1. High Concept](#1-high-concept)
+  - [High Concept](#high-concept)
   - [2. Gameplay](#2-gameplay)
   - [3. Characters](#3-characters)
   - [4. NPCs](#4-npcs)
@@ -45,9 +44,10 @@ This document may only be made available to authorized members involved in the d
   - [4. Beta Game](#4-beta-game)
   - [5. Full Fame](#5-full-fame)
 - [Open Points](#open-points)
+
 # Concept
 
-## 1. High Concept
+## High Concept
 
 ## 2. Gameplay
 
