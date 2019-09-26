@@ -17,7 +17,7 @@ This document may only be made available to authorized members involved in the d
   - [3. Characters](#3-characters)
   - [4. NPCs](#4-npcs)
   - [5. Theme World Design](#5-theme-world-design)
-  - [1. Style Inspiration](#1-style-inspiration)
+- [Style Inspiration](#style-inspiration)
   - [2. Landscape](#2-landscape)
   - [3. Objects](#3-objects)
   - [4. Player Characters](#4-player-characters)
@@ -58,7 +58,7 @@ This document may only be made available to authorized members involved in the d
 
 ## 5. Theme World Design
 
-## 1. Style Inspiration
+# Style Inspiration
 
 ## 2. Landscape
 
