@@ -41,7 +41,7 @@ This document may only be made available to authorized members involved in the d
 - [Team](#team)
   - [1. Rolls](#1-rolls)
 - [TimeFrame](#timeframe)
-  - [1.Low-Fidelity Prototyp](#1low-fidelity-prototyp)
+  - [1.Low-Fidelity Prototyp](#1-low-fidelity-prototyp)
   - [2. High-Fidelity Prototyp](#2-high-fidelity-prototyp)
   - [3. Alpha Game](#3-alpha-game)
   - [4. Beta Game](#4-beta-game)
