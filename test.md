@@ -20,7 +20,7 @@ This document may only be made available to authorized members involved in the d
   - [1. Style Inspiration](#1-style-inspiration)
   - [2. Landscape](#2-landscape)
   - [3. Objects](#3-objects)
-  - [4. </a>Player Characters](#4-aplayer-characters)
+  - [4. Player Characters](#4-player-characters)
   - [5. Lightning](#5-lightning)
   - [6. Biomes](#6-biomes)
   - [7. Required Artwork](#7-required-artwork)
@@ -64,7 +64,7 @@ This document may only be made available to authorized members involved in the d
 
 ## 3. Objects
 
-## 4. </a>Player Characters
+## 4. Player Characters
 
 ## 5. Lightning
 
